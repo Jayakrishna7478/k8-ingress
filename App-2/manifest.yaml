@@ -50,7 +50,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-  - host: "app2.kubernetes.online"
+  - host: "app2.kubernete.online"
     http:
       paths:
       - pathType: Prefix
